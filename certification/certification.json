@@ -1,0 +1,27 @@
+[
+    {
+        "name": "International Science Qualification Olympiad",
+        "by": "USU STUDENT OLYMPIAD x EDU EXPO INDONESIA",
+        "image": "./certification/sertif3.jpg",
+        "category":"sains olympiad",
+        "links": {
+            "credentials": "https://drive.google.com/file/d/1JAMenqIShgl5zQf3T1-B6mhuI_JNMs_p/view?usp=drivesdk"
+        }
+    }, {
+        "name": "Education Expo & Science Oliympiad Tahun 2023",
+        "by": "USU STUDENT OLYMPIAD x EDU EXPO INDONESIA",
+        "image": "./certification/sertif.jpg",
+        "category":"sains olympiad",
+        "links": {
+            "credentials": "https://www.instagram.com/eduexpoid?igsh=ZTJ4cXB1eGQxeTd3"
+        }
+    }, {
+        "name": " Grand final usu student olympiad 2023",
+        "by": "USU STUDENT OLYMPIAD x EDU EXPO INDONESIA",
+        "image": "./certification/jpg.3.jpg",
+        "category":"sains olympiad",
+        "links": {
+            "credentials": "https://www.instagram.com/eduexpoid?igsh=ZTJ4cXB1eGQxeTd3"
+        }
+    }
+]
